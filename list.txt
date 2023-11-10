@@ -1,4 +1,5 @@
 things to do
 code for Java
-
+practice Java
+practice github
 and have fun
